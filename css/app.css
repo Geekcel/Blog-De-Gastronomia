@@ -1,0 +1,33 @@
+body{
+    margin-right: 100px;
+    margin-left: 100px;
+    background-image: url(../img/fondo.jpg);
+
+}
+
+#fondo{
+    background-color: rgba(0,123,255,0.5);
+    color: aliceblue
+}
+
+#columnaizq{
+    background-color: rgb(244, 228, 0);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.menu{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#navegador{
+    margin-top: 20px
+}
+
+
+
+    
