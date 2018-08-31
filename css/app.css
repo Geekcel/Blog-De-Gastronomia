@@ -70,3 +70,29 @@ body{
     -o-border-radius: 10px;
     margin-left: 420px;
 }
+
+@media(max-width:900px){
+    #columnaizq{
+        display: none;
+    }
+
+    #columnader2{
+        margin: 10px;
+        
+    }
+
+    #columnader{
+        margin: 10px;
+        
+    }
+
+    body{
+        margin: 0px;
+        width: 100%
+    }
+
+    .btnpubli{
+        margin-left: 120px;
+        float: fixed;
+    }
+}
